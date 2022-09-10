@@ -1,2 +1,3 @@
 # odin-recipes
-projets from theodinproject.com
+
+projets from **theodinproject**.com
